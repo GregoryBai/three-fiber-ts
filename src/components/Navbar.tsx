@@ -1,4 +1,5 @@
 import React from 'react'
+import ReactDOM from 'react-dom'
 import { NavLink as Link } from 'react-router-dom'
 import styled from 'styled-components'
 
@@ -22,12 +23,13 @@ const StyledNavbar = styled.nav`
 interface Props {}
 
 const Navbar: React.FC<Props> = () => {
-	return (
+	return ReactDOM.createPortal(
 		<StyledNavbar>
 			<Link to='/'> Main</Link>
 			<Link to='/map'> Map</Link>
 			<Link to='/three'> 3D</Link>
-		</StyledNavbar>
+		</StyledNavbar>,
+		document.querySelector('#portal')!
 	)
 }
 
