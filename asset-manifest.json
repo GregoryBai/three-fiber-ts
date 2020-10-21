@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/three-fiber-ts/static/css/main.e6c9e524.chunk.css",
+    "main.js": "/three-fiber-ts/static/js/main.227bbc5a.chunk.js",
+    "main.js.map": "/three-fiber-ts/static/js/main.227bbc5a.chunk.js.map",
+    "runtime-main.js": "/three-fiber-ts/static/js/runtime-main.2b4bb8b6.js",
+    "runtime-main.js.map": "/three-fiber-ts/static/js/runtime-main.2b4bb8b6.js.map",
+    "static/js/2.e9b405e1.chunk.js": "/three-fiber-ts/static/js/2.e9b405e1.chunk.js",
+    "static/js/2.e9b405e1.chunk.js.map": "/three-fiber-ts/static/js/2.e9b405e1.chunk.js.map",
+    "index.html": "/three-fiber-ts/index.html",
+    "precache-manifest.31755a37626b6fbb9c4374a3c9295611.js": "/three-fiber-ts/precache-manifest.31755a37626b6fbb9c4374a3c9295611.js",
+    "service-worker.js": "/three-fiber-ts/service-worker.js",
+    "static/css/main.e6c9e524.chunk.css.map": "/three-fiber-ts/static/css/main.e6c9e524.chunk.css.map",
+    "static/js/2.e9b405e1.chunk.js.LICENSE.txt": "/three-fiber-ts/static/js/2.e9b405e1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2b4bb8b6.js",
+    "static/js/2.e9b405e1.chunk.js",
+    "static/css/main.e6c9e524.chunk.css",
+    "static/js/main.227bbc5a.chunk.js"
+  ]
+}
